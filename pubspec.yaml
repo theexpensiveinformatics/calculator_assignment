@@ -1,0 +1,72 @@
+name: calclulator
+description: "A new Flutter project."
+publish_to: 'none'
+
+
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.6.6
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # <-----LOCAL FONTS ----->
+  fonts:
+    - family: Satoshi
+      fonts:
+        - asset: assets\fonts\SATOSHI-LIGHT.OTF
+          weight: 300
+        - asset: assets\fonts\SATOSHI-REGULAR.OTF
+          weight: 400
+        - asset: assets\fonts\SATOSHI-MEDIUM.OTF
+          weight: 500
+        - asset: assets\fonts\SATOSHI-BOLD.OTF
+          weight: 600
+        - asset: assets\fonts\SATOSHI-BLACK.OTF
+          weight: 700
+        - asset: assets\fonts\SATOSHI-ITALIC.OTF
+          weight: 400
+          style: italic
+        - asset: assets\fonts\SATOSHI-MEDIUMITALIC.OTF
+          weight: 500
+          style: italic
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
